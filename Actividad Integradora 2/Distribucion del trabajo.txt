@@ -1,0 +1,13 @@
+Axel Ricardo Hernandez Montes de Oca    A01369965
+Daniel Daniel Amaya Gutierrez           A01769048
+Last Modified: 24/11/2021
+
+
+
+Distribucion del trabajo:
+
+Ejercicio	Persona		Complejidad
+1:	 	Axel		O(NM)
+2: 		Daniel		O(N^2)
+3:		Axel		O((N + M log M)*MN)
+4:		Daniel		O(NM)
